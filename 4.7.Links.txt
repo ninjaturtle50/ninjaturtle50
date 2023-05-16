@@ -1,0 +1,9 @@
+Hash Generator
+---------------
+https://www.tools4noobs.com/online_tools/hash/
+
+
+Guess Password from Hash Value
+-------------------------------
+https://crackstation.net/
+
